@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.pika1013.rhreweb",
+      "sha256_cert_fingerprints": ["54:A8:48:33:1F:BA:3D:12:B8:B7:89:22:E1:13:3D:3A:2B:96:45:BF:85:B1:6E:17:50:09:AB:3B:68:47:BC:18"]
+    }
+  }
+]
